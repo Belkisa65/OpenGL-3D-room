@@ -1,2 +1,2 @@
 # OpenGL-room
-Lab vezbe iz grafike.
+Laboratorijske vezbe iz grafike.
